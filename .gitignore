@@ -16,3 +16,6 @@
 # vendor/
 
 .idea
+
+address_generator
+address_generator.exe
